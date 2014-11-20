@@ -1,4 +1,4 @@
-package workspace;
+package org.chinavo.test;
 
 import java.net.URLEncoder;
 import java.security.InvalidKeyException;

@@ -1,4 +1,4 @@
-package workspace;
+package org.chinavo.test;
 
 import java.io.BufferedReader;
 import java.io.File;

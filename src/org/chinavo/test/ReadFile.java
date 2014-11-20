@@ -1,4 +1,4 @@
-package workspace;
+package org.chinavo.test;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
